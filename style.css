@@ -26,12 +26,11 @@
 }
 
 .right-section {
-    background-color: lavenderblush;
+    background-color: lavender;
     width: 90%;
     grid-column: span 1 / span 2;
     
- /*   grid-column-start: 2;
-    grid-column-end: 3;  */
+ 
 }
 
 .left-content {
